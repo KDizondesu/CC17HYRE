@@ -32,7 +32,7 @@
             android:layout_marginStart="4dp"
             android:layout_toEndOf="@id/like_button"
             android:textColor="@color/gray"
-            android:textSize="14sp" />
+            android:textSize="14sp"/>
 
         <ImageButton
             android:id="@+id/comment_button"
@@ -43,7 +43,7 @@
             android:layout_toEndOf="@id/like_count"
             android:background="?attr/selectableItemBackground"
             android:padding="8dp"
-            android:src="@drawable/ic_comment" />
+            android:src="@drawable/ic_comment"/>
 
         <TextView
             android:id="@+id/comment_count"
